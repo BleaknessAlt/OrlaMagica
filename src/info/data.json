@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Alvaro",
+        "image_path": "/src/assets/img/Carabante.gif",
+        "description": "",
+        "contact_information": {
+            "email": "",
+            "github": "",
+            "linkedin": ""
+        }
+    },
+    {
+        "name": "Pablo",
+        "image_path": "/src/assets/img/Pablo.gif",
+        "description": "",
+        "contact_information": {
+            "email": "",
+            "github": "",
+            "linkedin": ""
+        }
+    },
+    {
+        "name": "Antonio",
+        "image_path": "/src/assets/img/Antonio.gif",
+        "description": "",
+        "contact_information": {
+            "email": "",
+            "github": "",
+            "linkedin": ""
+        }
+    },
+    {
+        "name": "Ramon",
+        "image_path": "/src/assets/img/Ramon.gif",
+        "description": "",
+        "contact_information": {
+            "email": "",
+            "github": "",
+            "linkedin": ""
+        }
+    }
+]
