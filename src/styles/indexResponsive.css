@@ -1,0 +1,15 @@
+    @media (max-width: 769px) {
+        .image-container {
+			flex-direction: column;
+        }
+    }
+
+
+
+    @media (max-width: 600px) {
+        .image-container {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+        }
+    }
+    
