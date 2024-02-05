@@ -129,6 +129,15 @@
             "linkedin": ""
         }
     },{
+        "name": "Jaime Perez Brotons",
+        "image_path": "/src/assets/img/Jaime.gif",
+        "description": "",
+        "contact_information": {
+            "email": "",
+            "github": "",
+            "linkedin": ""
+        }
+    },{
         "name": "Alejandro Raposo Tomás",
         "image_path": "/src/assets/img/Alejandro.gif",
         "description": "",
