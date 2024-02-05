@@ -1,5 +1,75 @@
 [
     {
+        "name": "Pablo Profesor",
+        "image_path": "/src/assets/img/Pabloprofesor.gif",
+        "description": "",
+        "contact_information": {
+            "email": "",
+            "github": "",
+            "linkedin": ""
+        }
+    },
+    {
+        "name": "Antonio Profesor",
+        "image_path": "/src/assets/img/Antonioprofe.gif",
+        "description": "",
+        "contact_information": {
+            "email": "",
+            "github": "",
+            "linkedin": ""
+        }
+    },
+    {
+        "name": "Rafael del Rio Santaolalla",
+        "image_path": "/src/assets/img/Rafa.gif",
+        "description": "",
+        "contact_information": {
+            "email": "",
+            "github": "",
+            "linkedin": ""
+        }
+    },
+    {
+        "name": "Fernando",
+        "image_path": "/src/assets/img/Fernando.gif",
+        "description": "",
+        "contact_information": {
+            "email": "",
+            "github": "",
+            "linkedin": ""
+        }
+    },
+    {
+        "name": "Rocio",
+        "image_path": "/src/assets/img/Rocio.gif",
+        "description": "",
+        "contact_information": {
+            "email": "",
+            "github": "",
+            "linkedin": ""
+        }
+    },
+    {
+        "name": "Carmen y Cristina",
+        "image_path": "/src/assets/img/Cistinacarmen.gif",
+        "description": "",
+        "contact_information": {
+            "email": "",
+            "github": "",
+            "linkedin": ""
+        }
+    },
+    {
+        "name": "Zenaida",
+        "image_path": "/src/assets/img/Zenaida.gif",
+        "description": "",
+        "contact_information": {
+            "email": "",
+            "github": "",
+            "linkedin": ""
+        }
+    },
+    {
         "name": "Daniel Andres Comino",
         "image_path": "/src/assets/img/Andres.gif",
         "description": "",
@@ -38,7 +108,8 @@
             "github": "",
             "linkedin": ""
         }
-    },{
+    },
+    {
         "name": "Alvaro Caraballo Garcia",
         "image_path": "/src/assets/img/Caraballo.gif",
         "description": "",
@@ -47,7 +118,8 @@
             "github": "",
             "linkedin": ""
         }
-    },{
+    },
+    {
         "name": "Julia Carrera Gutiérrez",
         "image_path": "/src/assets/img/Julia.gif",
         "description": "",
@@ -56,7 +128,8 @@
             "github": "",
             "linkedin": ""
         }
-    },{
+    },
+    {
         "name": "Juanjo Catalá Garrido",
         "image_path": "/src/assets/img/Juanjo.gif",
         "description": "",
@@ -65,7 +138,8 @@
             "github": "",
             "linkedin": ""
         }
-    },{
+    },
+    {
         "name": "Natán Cejas García",
         "image_path": "/src/assets/img/Natan.gif",
         "description": "",
@@ -74,7 +148,8 @@
             "github": "",
             "linkedin": ""
         }
-    },{
+    },
+    {
         "name": "Miguel Crespo Moreno",
         "image_path": "/src/assets/img/Crespo.gif",
         "description": "",
@@ -83,7 +158,8 @@
             "github": "",
             "linkedin": ""
         }
-    },{
+    },
+    {
         "name": "Eduardo Daza Villanueva",
         "image_path": "/src/assets/img/Eduardo.gif",
         "description": "",
@@ -92,7 +168,8 @@
             "github": "",
             "linkedin": ""
         }
-    },{
+    },
+    {
         "name": "Jose Ramón Gallardo :) Hazkarate",
         "image_path": "/src/assets/img/Ramon.gif",
         "description": "",
@@ -101,7 +178,8 @@
             "github": "",
             "linkedin": ""
         }
-    },{
+    },
+    {
         "name": "José Luis Granado Mendoza",
         "image_path": "/src/assets/img/Joseluis.gif",
         "description": "",
@@ -110,7 +188,8 @@
             "github": "",
             "linkedin": ""
         }
-    },{
+    },
+    {
         "name": "Ana Montes de Ory",
         "image_path": "/src/assets/img/Ana.gif",
         "description": "",
@@ -119,7 +198,8 @@
             "github": "",
             "linkedin": ""
         }
-    },{
+    },
+    {
         "name": "Moises Moreno Exojo",
         "image_path": "/src/assets/img/Moises.gif",
         "description": "",
@@ -128,7 +208,8 @@
             "github": "",
             "linkedin": ""
         }
-    },{
+    },
+    {
         "name": "Jaime Perez Brotons",
         "image_path": "/src/assets/img/Jaime.gif",
         "description": "",
@@ -137,7 +218,8 @@
             "github": "",
             "linkedin": ""
         }
-    },{
+    },
+    {
         "name": "Alejandro Raposo Tomás",
         "image_path": "/src/assets/img/Alejandro.gif",
         "description": "",
@@ -146,7 +228,8 @@
             "github": "",
             "linkedin": ""
         }
-    },{
+    },
+    {
         "name": "Cristian Rey Balmaseda",
         "image_path": "/src/assets/img/Rey.gif",
         "description": "",
@@ -155,7 +238,8 @@
             "github": "",
             "linkedin": ""
         }
-    },{
+    },
+    {
         "name": "Gonzalo Sánchez de Toro",
         "image_path": "/src/assets/img/Sanchez.gif",
         "description": "",
@@ -164,7 +248,8 @@
             "github": "",
             "linkedin": ""
         }
-    },{
+    },
+    {
         "name": "Pablo Valladares González",
         "image_path": "/src/assets/img/Pablo.gif",
         "description": "",
@@ -173,7 +258,8 @@
             "github": "",
             "linkedin": ""
         }
-    },{
+    },
+    {
         "name": "Javier Verano López",
         "image_path": "/src/assets/img/Javier.gif",
         "description": "",
