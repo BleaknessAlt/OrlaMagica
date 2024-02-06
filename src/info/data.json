@@ -70,7 +70,7 @@
         }
     },
     {
-        "name": "Daniel Andres Comino",
+        "name": "Daniel Andres ",
         "image_path": "/src/assets/img/Andres.gif",
         "description": "",
         "contact_information": {
@@ -90,7 +90,7 @@
         }
     },
     {
-        "name": "Daniel Blancas Jimenez",
+        "name": "Daniel Blancas ",
         "image_path": "/src/assets/img/Blancas.gif",
         "description": "",
         "contact_information": {
@@ -100,7 +100,7 @@
         }
     },
     {
-        "name": "Diego Cadenillas Nájar",
+        "name": "Diego Cadenillas ",
         "image_path": "/src/assets/img/Cadenillas.gif",
         "description": "",
         "contact_information": {
@@ -110,7 +110,7 @@
         }
     },
     {
-        "name": "Alvaro Caraballo Garcia",
+        "name": "Alvaro Caraballo ",
         "image_path": "/src/assets/img/Caraballo.gif",
         "description": "",
         "contact_information": {
@@ -120,7 +120,16 @@
         }
     },
     {
-        "name": "Julia Carrera Gutiérrez",
+        "name": "Alvaro Carabante ",
+        "image_path": "/src/assets/img/Carabante.gif",
+        "description": "",
+        "contact_information": {
+            "email": "",
+            "github": "",
+            "linkedin": ""
+        }
+    },{
+        "name": "Julia Carrera ",
         "image_path": "/src/assets/img/Julia.gif",
         "description": "",
         "contact_information": {
@@ -130,7 +139,7 @@
         }
     },
     {
-        "name": "Juanjo Catalá Garrido",
+        "name": "Juanjo Catalá ",
         "image_path": "/src/assets/img/Juanjo.gif",
         "description": "",
         "contact_information": {
@@ -140,7 +149,7 @@
         }
     },
     {
-        "name": "Natán Cejas García",
+        "name": "Natán Cejas ",
         "image_path": "/src/assets/img/Natan.gif",
         "description": "",
         "contact_information": {
@@ -150,7 +159,7 @@
         }
     },
     {
-        "name": "Miguel Crespo Moreno",
+        "name": "Miguel Crespo ",
         "image_path": "/src/assets/img/Crespo.gif",
         "description": "",
         "contact_information": {
@@ -160,7 +169,7 @@
         }
     },
     {
-        "name": "Eduardo Daza Villanueva",
+        "name": "Eduardo Daza ",
         "image_path": "/src/assets/img/Eduardo.gif",
         "description": "",
         "contact_information": {
@@ -170,7 +179,7 @@
         }
     },
     {
-        "name": "Jose Ramón Gallardo :) Hazkarate",
+        "name": "Jose Ramón Gallardo",
         "image_path": "/src/assets/img/Ramon.gif",
         "description": "",
         "contact_information": {
@@ -180,7 +189,7 @@
         }
     },
     {
-        "name": "José Luis Granado Mendoza",
+        "name": "José Luis Granado ",
         "image_path": "/src/assets/img/Joseluis.gif",
         "description": "",
         "contact_information": {
@@ -200,7 +209,7 @@
         }
     },
     {
-        "name": "Moises Moreno Exojo",
+        "name": "Moises Moreno ",
         "image_path": "/src/assets/img/Moises.gif",
         "description": "",
         "contact_information": {
@@ -210,7 +219,7 @@
         }
     },
     {
-        "name": "Jaime Perez Brotons",
+        "name": "Jaime Perez ",
         "image_path": "/src/assets/img/Jaime.gif",
         "description": "",
         "contact_information": {
@@ -220,7 +229,7 @@
         }
     },
     {
-        "name": "Alejandro Raposo Tomás",
+        "name": "Alejandro Raposo ",
         "image_path": "/src/assets/img/Alejandro.gif",
         "description": "",
         "contact_information": {
@@ -230,7 +239,7 @@
         }
     },
     {
-        "name": "Cristian Rey Balmaseda",
+        "name": "Cristian Rey ",
         "image_path": "/src/assets/img/Rey.gif",
         "description": "",
         "contact_information": {
@@ -240,7 +249,7 @@
         }
     },
     {
-        "name": "Gonzalo Sánchez de Toro",
+        "name": "Gonzalo Sánchez ",
         "image_path": "/src/assets/img/Sanchez.gif",
         "description": "",
         "contact_information": {
@@ -250,7 +259,7 @@
         }
     },
     {
-        "name": "Pablo Valladares González",
+        "name": "Pablo Valladares ",
         "image_path": "/src/assets/img/Pablo.gif",
         "description": "",
         "contact_information": {
@@ -260,7 +269,7 @@
         }
     },
     {
-        "name": "Javier Verano López",
+        "name": "Javier Verano ",
         "image_path": "/src/assets/img/Javier.gif",
         "description": "",
         "contact_information": {
