@@ -120,6 +120,15 @@
         }
     },
     {
+        "name": "Alvaro Carabante ",
+        "image_path": "/src/assets/img/Carabante.gif",
+        "description": "",
+        "contact_information": {
+            "email": "",
+            "github": "",
+            "linkedin": ""
+        }
+    },{
         "name": "Julia Carrera ",
         "image_path": "/src/assets/img/Julia.gif",
         "description": "",
