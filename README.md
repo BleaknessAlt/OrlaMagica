@@ -19,7 +19,7 @@ Este proyecto esta creado utilizando la tecnologia de Astro por lo que seran nec
 
 ## ¿Por que Astro?
 
-Estamos utilizando Astro ya que es una tecnologia emergente la cual tiene mucho potencial, debido a que esta muy modulado facilita el entendimiento del codigo y la automatización. Ya que ni siquiera hemos tenido que poner muchas veces un div de forma repetida o diversas etiquetas, simplemente con un JSON con los datos hemos automatizado el proceso.
+Estamos utilizando Astro ya que es una tecnologia emergente la cual tiene mucho potencial, debido a que esta muy modulado facilita la legibilidad del codigo y la automatización. Ya que ni siquiera hemos tenido que poner muchas veces un div de forma repetida o diversas etiquetas, simplemente con un JSON con los datos hemos automatizado el proceso.
 
 ## Estructura del Repositorio
 
