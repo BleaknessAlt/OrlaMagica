@@ -2,13 +2,23 @@
 import Layout from "../layouts/Layout.astro";
 import ImageCard from "../components/ImageCard.astro";
 import userData from "../info/data.json";
+import teacherData from "../info/teacherData.json";
 import "../styles/index.css";
 import "../styles/indexResponsive.css";
 ---
 
 <Layout title="Welcome to Astro.">
     <main>
-	    <h1>Bienvenido a la Orla de <span class="text-gradient">DAW</span></h1>
+	    <h1>Bienvenido a la Orla de <span class="text-gradient">DAW 2022-2024</span></h1>
+        <h1><span class="text-gradient">¡Profesores!</span></h1>
+        <div class="image-container">
+            {
+                teacherData.map(({ name, image_path, description, contact_information }) => (
+                    <ImageCard title={name} body={description} image_path={image_path}, href="" />
+                ))
+            }
+        </div>
+        <h1><span class="text-gradient">¡Alumnos!</span></h1>
         <div class="image-container">
             {
                 userData.map(({ name, image_path, description, contact_information }) => (

@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Victor Pablo Galván Florez",
+        "image_path": "/src/assets/img/Pabloprofesor.gif",
+        "description": "",
+        "contact_information": {
+            "email": "",
+            "github": "",
+            "linkedin": ""
+        }
+    },
+    {
+        "name": "Antonio Luis Lozano ",
+        "image_path": "/src/assets/img/Antonioprofe.gif",
+        "description": "",
+        "contact_information": {
+            "email": "",
+            "github": "",
+            "linkedin": ""
+        }
+    },
+    {
+        "name": "Rafael del Rio Santaella",
+        "image_path": "/src/assets/img/Rafa.gif",
+        "description": "",
+        "contact_information": {
+            "email": "",
+            "github": "",
+            "linkedin": ""
+        }
+    },
+    {
+        "name": "Fernando Vargas Blandino",
+        "image_path": "/src/assets/img/Fernando.gif",
+        "description": "",
+        "contact_information": {
+            "email": "",
+            "github": "",
+            "linkedin": ""
+        }
+    },
+    {
+        "name": "María del Rocío García González",
+        "image_path": "/src/assets/img/Rocio.gif",
+        "description": "",
+        "contact_information": {
+            "email": "",
+            "github": "",
+            "linkedin": ""
+        }
+    },
+    {
+        "name": "Carmen Ramírez Martos y Cristina Sánchez Gamarro",
+        "image_path": "/src/assets/img/Cristinacarmen.gif",
+        "description": "",
+        "contact_information": {
+            "email": "",
+            "github": "",
+            "linkedin": ""
+        }
+    },
+    {
+        "name": "Zenaida González Caballos Martinez",
+        "image_path": "/src/assets/img/Zenaida.gif",
+        "description": "",
+        "contact_information": {
+            "email": "",
+            "github": "",
+            "linkedin": ""
+        }
+    }
+]
